@@ -1,0 +1,60 @@
+Jest to pętla: 0
+Zachodzi dla 100 elementów
+0.000035 - bubbleSort 
+0.000023 - SelectSort, 
+0.000011 - InsertSort 
+
+Jest to pętla: 1
+Zachodzi dla 200 elementów
+0.000123 - bubbleSort 
+0.000078 - SelectSort, 
+0.000042 - InsertSort 
+
+Jest to pętla: 2
+Zachodzi dla 400 elementów
+0.000448 - bubbleSort 
+0.000299 - SelectSort, 
+0.000165 - InsertSort 
+
+Jest to pętla: 3
+Zachodzi dla 800 elementów
+0.001747 - bubbleSort 
+0.001082 - SelectSort, 
+0.000641 - InsertSort 
+
+Jest to pętla: 4
+Zachodzi dla 1600 elementów
+0.006923 - bubbleSort 
+0.006141 - SelectSort, 
+0.002651 - InsertSort 
+
+Jest to pętla: 5
+Zachodzi dla 3200 elementów
+0.028505 - bubbleSort 
+0.017117 - SelectSort, 
+0.010598 - InsertSort 
+
+Jest to pętla: 6
+Zachodzi dla 6400 elementów
+0.121742 - bubbleSort 
+0.072022 - SelectSort, 
+0.055036 - InsertSort 
+
+Jest to pętla: 7
+Zachodzi dla 12800 elementów
+0.493191 - bubbleSort 
+0.287101 - SelectSort, 
+0.174854 - InsertSort 
+
+Jest to pętla: 8
+Zachodzi dla 25600 elementów
+2.212680 - bubbleSort 
+1.119895 - SelectSort, 
+0.705504 - InsertSort 
+
+Jest to pętla: 9
+Zachodzi dla 51200 elementów
+7.867422 - bubbleSort 
+3.309929 - SelectSort, 
+2.058675 - InsertSort 
+
