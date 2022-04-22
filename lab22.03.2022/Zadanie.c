@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+#include "Ex11A.c"
+
 void IntToBinary(int);
 void piramida(int);
 void piramida2(int);
@@ -9,12 +11,13 @@ int func(int);
 int main()
 {
     //IntToBinary(366);
-    printf("\n");
+    //printf("\n");
     //piramida(6);
-    printf("\n");
-    piramida2(6);
+    //printf("\n");
+    //piramida2(6);
 
-    printf("%d", func(3));   
+    //printf("%d", func(3));   
+    printf("%f", Ex11A(10));
 }
 
 void IntToBinary(int number)
