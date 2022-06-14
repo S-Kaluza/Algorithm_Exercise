@@ -1,0 +1,11 @@
+Zadanie 4:
+Mnożenie
+
+Zadanie 5:
+Patrz Zadanie 4
+
+Zadanie 6:
+Potęgowanie
+
+Zadanie 7:
+Ciąg fibonacciego

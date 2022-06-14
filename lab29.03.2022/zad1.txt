@@ -1,0 +1,40 @@
+Dla 1000 elementów
+
+DIQMinMax : 0.000001
+NaiveMinMax : 0.000003
+Dla 2000 elementów
+
+DIQMinMax : 0.000000
+NaiveMinMax : 0.000006
+Dla 4000 elementów
+
+DIQMinMax : 0.000001
+NaiveMinMax : 0.000012
+Dla 8000 elementów
+
+DIQMinMax : 0.000001
+NaiveMinMax : 0.000024
+Dla 16000 elementów
+
+DIQMinMax : 0.000001
+NaiveMinMax : 0.000047
+Dla 32000 elementów
+
+DIQMinMax : 0.000001
+NaiveMinMax : 0.000094
+Dla 64000 elementów
+
+DIQMinMax : 0.000001
+NaiveMinMax : 0.000188
+Dla 128000 elementów
+
+DIQMinMax : 0.000001
+NaiveMinMax : 0.000375
+Dla 256000 elementów
+
+DIQMinMax : 0.000001
+NaiveMinMax : 0.000749
+Dla 512000 elementów
+
+DIQMinMax : 0.000002
+NaiveMinMax : 0.001506

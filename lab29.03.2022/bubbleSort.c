@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
+#include "auxiliaryFunction.c"
 
 void bubbleSort(int* tab, int N){
     for(int i = 0; i < N - 1; i++)

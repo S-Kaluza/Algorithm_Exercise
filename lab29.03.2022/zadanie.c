@@ -18,6 +18,7 @@ int main(){
     int N = 100;
     int* tab;
     int* tab2;
+    clock_t start_t, end_t;
     float a_time;
     FILE *fp;
     fp = fopen("tekst.txt", "w");
